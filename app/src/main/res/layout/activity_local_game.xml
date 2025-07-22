@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/game_frame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:rowCount="8"
+    android:columnCount="8">
+
+    <!-- Plansza: Puste miejsca, na których będą figury -->
+    <!-- Wypełnione dynamicznie w kodzie Java -->
+
+</GridLayout>
